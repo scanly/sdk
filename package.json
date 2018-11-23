@@ -1,0 +1,28 @@
+{
+  "name": "scanly",
+  "version": "0.0.1",
+  "description": "Scanly.uk API SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scan",
+    "service",
+    "microservice",
+    "ocr",
+    "email",
+    "image",
+    "scanner"
+  ],
+  "author": "Martin Swiderski",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://scanly@github.com/scanly/sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/scanly/sdk/issues"
+  },
+  "homepage": "https://github.com/scanly/sdk#readme"
+}
